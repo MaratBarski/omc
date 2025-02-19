@@ -1,0 +1,8 @@
+obj
+bin
+packages
+.vs
+Backup
+CTDentDayReport
+dist
+node_modules
